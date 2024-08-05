@@ -1,2 +1,2 @@
 # LLM-Langchain
-here my coding in th project LLM Langchain
+here is my project LLM based Enhanced Chatbot using Langchain
